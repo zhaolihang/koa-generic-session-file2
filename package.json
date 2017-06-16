@@ -1,6 +1,6 @@
 {
   "name": "koa-generic-session-file2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "It is just 'koa-generic-session-file' bugfix version",
   "main": "index.js",
   "directories": {
