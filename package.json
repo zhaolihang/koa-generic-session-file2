@@ -29,5 +29,10 @@
     "should-sinon": "0.0.3",
     "sinon": "^1.17.2",
     "sinon-as-promised": "^4.0.0"
+  },
+  "homepage": "https://github.com/zhaolihang/koa-generic-session-file2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaolihang/koa-generic-session-file2.git"
   }
 }
