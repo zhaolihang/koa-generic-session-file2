@@ -1,0 +1,33 @@
+{
+  "name": "koa-generic-session-file2",
+  "version": "0.0.1",
+  "description": "It is just 'koa-generic-session-file' bugfix version",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "keywords": [
+    "koa-generic-session"
+  ],
+  "author": "625335512@qq.com",
+  "license": "ISC",
+  "engines": {
+    "node": ">4.0"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "es6-promisify": "^3.0.0",
+    "glob": "^6.0.3",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.0.2",
+    "should-sinon": "0.0.3",
+    "sinon": "^1.17.2",
+    "sinon-as-promised": "^4.0.0"
+  }
+}
